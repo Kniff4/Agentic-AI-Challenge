@@ -1,0 +1,17 @@
+{
+  "company": "Talentia",
+  "fonts": {
+    "title": "Arial",
+    "body": "Arial",
+    "fallback": "Arial Unicode MS"
+  },
+  "colors": {
+    "primary": "#24135F",
+    "accent": "#D0006F",
+    "body": "#24135F"
+  },
+  "rules": {
+    "max_bullets": 5,
+    "preferred_slide_types": ["title", "section", "bullet", "two_column"]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "company": "Talentia",
+  "version": "1.0",
+  "logos": {
+    "primary": "assets/talentia/logo_primary.png",
+    "white": "assets/talentia/logo_white.png",
+    "responsive": "assets/talentia/logo_responsive.png"
+  },
+  "templates": {
+    "default": "templates/talentia_template.pptx"
+  },
+  "defaults": {
+    "logo_position": "top_right",
+    "title_font_family": "Arial",
+    "body_font_family": "Arial",
+    "fallback_font_family": "Arial Unicode MS",
+    "primary_color": "#24135F",
+    "accent_color": "#D0006F",
+    "body_color": "#24135F"
+  }
+}
