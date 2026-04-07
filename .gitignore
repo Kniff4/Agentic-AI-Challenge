@@ -1,2 +1,6 @@
 .venv/
 tools/__pycache__/
+services/pptx-service/node_modules/
+services/pptx-service/package-lock.json
+services/pptx-service/package.json
+.env
