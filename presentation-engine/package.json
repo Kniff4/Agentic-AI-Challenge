@@ -1,0 +1,16 @@
+{
+  "name": "smart-ppt-v1",
+  "version": "1.0.0",
+  "description": "Smart JSON to PowerPoint renderer",
+  "main": "src/render_presentation.js",
+  "type": "commonjs",
+  "scripts": {
+    "render:v1": "node src/render_presentation.js examples/example_deck.json output/output.pptx",
+    "render:v2": "node src/render_presentation.js examples/example_deck_v2.json output/output_v2.pptx",
+    "render:v2rich": "node src/render_presentation.js examples/example_deck_v2_rich.json output/output_v2_rich.pptx",
+    "render:talentia": "node src/render_presentation.js examples/example_deck_v2_rich.json output/output_talentia.pptx profiles/company_style_profile_talentia.json"
+  },
+  "dependencies": {
+    "pptxgenjs": "^3.12.0"
+  }
+}
