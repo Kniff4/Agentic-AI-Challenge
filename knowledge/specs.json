@@ -1,0 +1,94 @@
+{
+    "colors": {
+        "primary": {
+            "273": "#24135F",
+            "226": "#D0006F",
+            "grey": "#B1B3B3"
+        },
+        "secondary": {
+            "violet": "#422990",
+            "319": "#2DCCD3"
+        },
+        "black": "#1d1d1d",
+        "light_grey": "#b2b2b2" 
+    },
+    "logos": {
+        "primary": {
+            "base": "logo_primary.png",
+            "solid_background": "talentia/logo_primary_solid.png"
+        },
+        "black": {
+            "base": "logo_b_base.png",
+            "solid_background": "talentia/logo_b_solid.png"
+        },
+        "light_grey": {
+            "base": "logo_w_base.png",
+            "solid_background": "talentia/logo_w_solid.png"
+        },
+        "responsive": {
+            "base": "logo_responsive.png",
+            "solid_background": "talentia/logo_responsive_solid.png"
+        },
+        "icon": {
+            "base": "logo_icon.png",
+            "solid_background": "talentia/logo_icon_solid.png"
+        }
+    },
+    "min_sizes": {
+        "primary": {
+            "base": {
+                "width": 33
+            },
+            "solid_background": {
+                "width": 45
+            }
+        },
+        "black": {
+            "base": {
+                "width": 33
+            },
+            "solid_background": {
+                "width": 45
+            }
+        },
+        "white": {
+            "base": {
+                "width": 33
+            },
+            "solid_background": {
+                "width": 45
+            }
+        },
+        "responsive": {
+            "base": {
+                "width": 14
+            },
+            "solid_background": {
+                "width": 20
+            }
+        },
+        "icon": [
+                "128px", "96px", "64px", "48px", "32px", "16px"
+            ]
+    },
+    "font": {
+        "primary": "Campton",
+        "fallback": "Arial",
+        "weights": {
+            "Campton": [
+                "Thin", "Extra Light", "Light", "Book", "Medium", "Semibold"
+            ],
+            "Arial": [
+                "Regular", "Unicode MS", "Bold"
+            ]
+        },
+        "colors": {
+            "primary": [
+                273, 226
+            ],
+            "black": "#000000",
+            "light_grey": "#b2b2b2",
+            "white": "#ffffff"
+        }
+    }
+}

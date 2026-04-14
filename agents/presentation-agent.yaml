@@ -164,3 +164,8 @@ tools:
   - extract_presentation_content
   - apply_brand_policy
   - generate_presentation
+chat_with_docs:
+  enabled: true
+  generation:
+    idk_message: "I'm sorry, I am not sure how to help with that. Could you please provide more details or clarify your request?"
+  supports_full_document: true 
